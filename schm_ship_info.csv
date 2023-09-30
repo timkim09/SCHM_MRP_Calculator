@@ -1,0 +1,10 @@
+Package Size,Shipping Time,Intercept,Rate
+Small,0,15,3
+Small,1,9,1.8
+Small,2,5,1
+Large,0,180,2.25
+Large,1,108,1.35
+Large,2,60,0.75
+Freight,0,525,1.2
+Freight,1,315,0.72
+Freight,2,175,0.4
